@@ -3,5 +3,7 @@ name = "ai-engineering-reference"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
-dependencies = []
+requires-python = ">=3.12"
+dependencies = [
+    "mlflow>=3.14.0",
+]
